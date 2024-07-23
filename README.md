@@ -1,0 +1,6 @@
+The Snake Game is a classic arcade game that has stood the test of time, captivating players for decades. This project aims to recreate this iconic game using P	ython, a versatile and powerful programming language. The game is built on a simple concept.
+The Snake game is a classic arcade game where a player controls a snake that moves around a grid. The goal is to eat food items, which makes the snake grow longer. However, the game ends if the snake collides with the walls or itself.
+
+Abstract:
+
+The "Snake Game in Python" is a classic and entertaining implementation of the iconic Snake game, offering users a nostalgic gaming experience with a modern twist. This Python-based game challenges players to guide a growing snake around the screen, devouring food items while avoiding collisions with walls and the snake's own tail. Featuring vibrant graphics and smooth gameplay, this project captures the essence of the original Snake game while providing an engaging and interactive Python-based gaming experience. With its intuitive controls, endless levels, and leaderboard functionality, players can immerse themselves in hours of nostalgic fun, testing their reflexes and strategy as they strive for high scores.
